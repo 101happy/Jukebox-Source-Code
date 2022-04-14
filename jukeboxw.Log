@@ -1,0 +1,147 @@
+* Parsing \Lego\Scripts\Isle\jukeboxw.ss
+Created Object: Configuration
+Opened file: Q:\Lego\Media\JukeBox\backgrnd.bmp
+Created Object: Background_Bitmap
+Opened file: q:\Lego\Media\JukeBox\Right.bmp
+Created Object: Right_Bitmap
+Opened file: q:\Lego\Media\JukeBox\Decal.bmp
+Created Object: Decal_Bitmap
+Opened file: q:\Lego\Media\JukeBox\Wallis.bmp
+Created Object: Wallis_Bitmap
+Opened file: q:\Lego\Media\JukeBox\Nelson.bmp
+Created Object: Nelson_Bitmap
+Opened file: q:\Lego\Media\JukeBox\Torpedos.bmp
+Created Object: Torpedos_Bitmap
+Opened file: Q:\Lego\media\jukebox\voldown.bmp
+Created Object: Voldown_Up_Bitmap
+Opened file: Q:\Lego\media\jukebox\voldownS.bmp
+Created Object: Voldown_Down_Bitmap
+Created Object: Voldown_Ctl
+Opened file: Q:\Lego\media\jukebox\volup.bmp
+Created Object: Volup_Up_Bitmap
+Opened file: Q:\Lego\media\jukebox\volupS.bmp
+Created Object: Volup_Down_Bitmap
+Created Object: Volup_Ctl
+Opened file: Q:\Lego\media\jukebox\dback.bmp
+Created Object: Dback_Up_Bitmap
+Opened file: Q:\Lego\media\jukebox\dbackS.bmp
+Created Object: Dback_Down_Bitmap
+Created Object: Dback_Ctl
+Opened file: Q:\Lego\media\jukebox\dfwd.bmp
+Created Object: Dfwd_Up_Bitmap
+Opened file: Q:\Lego\media\jukebox\dfwdS.bmp
+Created Object: Dfwd_Down_Bitmap
+Created Object: Dfwd_Ctl
+Opened file: Q:\Lego\media\jukebox\note.bmp
+Created Object: Note_Up_Bitmap
+Opened file: Q:\Lego\media\jukebox\noteS.bmp
+Created Object: Note_Down_Bitmap
+Created Object: Note_Ctl
+Created Object: _StartUp
+* Weaving \Lego\Scripts\Isle\jukeboxw.ss
+buffer 0
+weaving object: _StartUp (stream:0)
+weaving object: Background_Bitmap (stream:6)
+weaving object: Right_Bitmap (stream:7)
+weaving object: Decal_Bitmap (stream:8)
+weaving object: Wallis_Bitmap (stream:9)
+weaving object: Nelson_Bitmap (stream:10)
+weaving object: Torpedos_Bitmap (stream:11)
+weaving object: Voldown_Ctl (stream:1)
+weaving object: Voldown_Up_Bitmap (stream:12)
+weaving object: Voldown_Down_Bitmap (stream:13)
+weaving object: Volup_Ctl (stream:2)
+weaving object: Volup_Up_Bitmap (stream:14)
+weaving object: Volup_Down_Bitmap (stream:15)
+weaving object: Dback_Ctl (stream:3)
+weaving object: Dback_Up_Bitmap (stream:16)
+weaving object: Dback_Down_Bitmap (stream:17)
+weaving object: Dfwd_Ctl (stream:4)
+weaving object: Dfwd_Up_Bitmap (stream:18)
+weaving object: Dfwd_Down_Bitmap (stream:19)
+weaving object: Note_Ctl (stream:5)
+weaving object: Note_Up_Bitmap (stream:20)
+weaving object: Note_Down_Bitmap (stream:21)
+(:stream:6, time:-1, size:1064) 
+(:stream:7, time:-1, size:1064) 
+(:stream:8, time:-1, size:1064) 
+(:stream:9, time:-1, size:1064) 
+(:stream:10, time:-1, size:1064) 
+(:stream:11, time:-1, size:1064) 
+(:stream:12, time:-1, size:1064) 
+(:stream:13, time:-1, size:1064) 
+(:stream:14, time:-1, size:1064) 
+(:stream:15, time:-1, size:1064) 
+(:stream:16, time:-1, size:1064) 
+(:stream:17, time:-1, size:1064) 
+(:stream:18, time:-1, size:1064) 
+(:stream:19, time:-1, size:1064) 
+(:stream:20, time:-1, size:1064) 
+(:stream:21, time:-1, size:1064) 
+(:stream:6, time:0, size:43788) 
+buffer 1
+(:stream:6, time:0, size:65514) 
+buffer 2
+(:stream:6, time:0, size:65514) 
+buffer 3
+(:stream:6, time:0, size:65514) 
+buffer 4
+(:stream:6, time:0, size:65514) 
+buffer 5
+(:stream:6, time:0, size:1356) 
+(:stream:6, time:-1, size:0)  - end of stream
+(:stream:7, time:0, size:64114) 
+buffer 6
+(:stream:7, time:0, size:54078) 
+(:stream:7, time:-1, size:0)  - end of stream
+(:stream:8, time:0, size:11392) 
+buffer 7
+(:stream:8, time:0, size:65514) 
+buffer 8
+(:stream:8, time:0, size:41286) 
+(:stream:8, time:-1, size:0)  - end of stream
+(:stream:9, time:0, size:24184) 
+buffer 9
+(:stream:9, time:0, size:65514) 
+buffer 10
+(:stream:9, time:0, size:28494) 
+(:stream:9, time:-1, size:0)  - end of stream
+(:stream:10, time:0, size:36976) 
+buffer 11
+(:stream:10, time:0, size:65514) 
+buffer 12
+(:stream:10, time:0, size:15702) 
+(:stream:10, time:-1, size:0)  - end of stream
+(:stream:11, time:0, size:49768) 
+buffer 13
+(:stream:11, time:0, size:65514) 
+buffer 14
+(:stream:11, time:0, size:2910) 
+(:stream:11, time:-1, size:0)  - end of stream
+(:stream:12, time:0, size:2376) 
+(:stream:12, time:-1, size:0)  - end of stream
+(:stream:13, time:0, size:2376) 
+(:stream:13, time:-1, size:0)  - end of stream
+(:stream:1, time:-1, size:0)  - end of stream
+(:stream:14, time:0, size:2376) 
+(:stream:14, time:-1, size:0)  - end of stream
+(:stream:15, time:0, size:2376) 
+(:stream:15, time:-1, size:0)  - end of stream
+(:stream:2, time:-1, size:0)  - end of stream
+(:stream:16, time:0, size:3280) 
+(:stream:16, time:-1, size:0)  - end of stream
+(:stream:17, time:0, size:3280) 
+(:stream:17, time:-1, size:0)  - end of stream
+(:stream:3, time:-1, size:0)  - end of stream
+(:stream:18, time:0, size:3280) 
+(:stream:18, time:-1, size:0)  - end of stream
+(:stream:19, time:0, size:3280) 
+(:stream:19, time:-1, size:0)  - end of stream
+(:stream:4, time:-1, size:0)  - end of stream
+(:stream:20, time:0, size:4048) 
+(:stream:20, time:-1, size:0)  - end of stream
+(:stream:21, time:0, size:4048) 
+(:stream:21, time:-1, size:0)  - end of stream
+(:stream:5, time:-1, size:0)  - end of stream
+(:stream:0, time:-1, size:0)  - end of stream
+buffer 15
